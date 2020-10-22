@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "138729696073",
+    "firebase_url": "https://aldananews-4e055.firebaseio.com",
+    "project_id": "aldananews-4e055",
+    "storage_bucket": "aldananews-4e055.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:138729696073:android:47ff3067ec3c1742d58898",
+        "android_client_info": {
+          "package_name": "com.daleh_appswebvie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "138729696073-ona0gnnmgcvvmnl8ibpbrgidr0dn6b52.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQx5vWZKjc4ltpAqI-2D1rbCXG_j9-6eI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "138729696073-ona0gnnmgcvvmnl8ibpbrgidr0dn6b52.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
